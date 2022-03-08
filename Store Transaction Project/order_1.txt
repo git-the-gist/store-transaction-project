@@ -1,0 +1,5 @@
+101    Coffee-Mug    11       4.50 
+102    T-Shirt       16       8.75
+103    Key-Chain     8        1.15
+104    Card-Holder   7        7.75
+105    Phone-Case    6        6.50
